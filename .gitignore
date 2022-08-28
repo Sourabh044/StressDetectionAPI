@@ -1,5 +1,5 @@
-venv
-venv/*
+.venv
+venv/
 migrations
 migrations/
 __pycache__
